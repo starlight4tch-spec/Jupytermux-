@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jupytermux</string>
+    <string name="notebook_viewer">Notebook Viewer</string>
+    <string name="terminal">Terminal</string>
+    <string name="open_notebook">Open Notebook</string>
+    <string name="open_terminal">Open Terminal</string>
+    <string name="create_notebook">Create Notebook</string>
+    <string name="no_notebooks">No notebooks found</string>
+    <string name="error_loading">Error loading content</string>
+</resources>

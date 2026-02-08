@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_options">
+        <item>Material 3</item>
+        <item>Material 2</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+    <string-array name="font_sizes">
+        <item>Small (10sp)</item>
+        <item>Normal (14sp)</item>
+        <item>Large (18sp)</item>
+        <item>Extra Large (24sp)</item>
+    </string-array>
+</resources>

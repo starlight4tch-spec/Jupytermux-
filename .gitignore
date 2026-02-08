@@ -1,0 +1,40 @@
+# Gradle Files
+.gradle/
+build/
+gradlew
+gradlew.bat
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Generated files
+gen/
+out/
+
+# Class files
+*.class
+*.jar
+
+# Native
+libs/
+obj/
+
+# Misc
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+.vscode/
+
+# Environment
+.env
+.env.local

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kernel_types">
+        <item>Python 3</item>
+        <item>JavaScript</item>
+        <item>Julia</item>
+        <item>R</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>Go</item>
+        <item>Rust</item>
+        <item>C++</item>
+        <item>C#</item>
+    </string-array>
+</resources>
